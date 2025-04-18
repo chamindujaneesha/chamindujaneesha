@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamindu Janeesha Kodikara</h1>
-<h3 align="center">Co-founder of WEAD | Customer Service Associate at Dialog Business Services | Former Vice President at DSICTS | Web Developer</h3>
+<h3 align="center">Co-founder of WEAD | Officer - Workforce Management | Former Vice President at DSICTS | Web Developer</h3>
 
 - 🔭 I’m currently working at [Dialog Business Services](www.dialog.lk)
 
